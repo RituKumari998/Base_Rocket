@@ -1,0 +1,53 @@
+{
+  "name": "higher-jump-game",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.6",
+    "@reown/appkit-adapter-wagmi": "^1.8.10",
+    "@tanstack/react-query": "^5.87.1",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "axios": "^1.11.0",
+    "csv-parse": "^6.1.0",
+    "ethers": "^6.15.0",
+    "framer-motion": "^12.23.12",
+    "mongodb": "^6.19.0",
+    "networks": "link:@reown/appkit/networks",
+    "next": "14.0.0",
+    "node-fetch": "^3.3.2",
+    "react": "link:@reown/appkit/react",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.0",
+    "typescript": "^5.0.0",
+    "viem": "^2.22.22",
+    "wagmi": "^2.16.9",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@farcaster/auth-client": "^0.6.0",
+    "@farcaster/frame-node": "^0.0.36",
+    "@farcaster/frame-sdk": "^0.1.9",
+    "@farcaster/frame-wagmi-connector": "^0.0.44",
+    "@farcaster/miniapp-core": "^0.3.6",
+    "@farcaster/miniapp-node": "^0.1.6",
+    "@farcaster/miniapp-sdk": "^0.1.7",
+    "@farcaster/miniapp-wagmi-connector": "^1.0.0",
+    "@svgr/webpack": "^8.1.0",
+    "@types/node": "20.9.0",
+    "@types/react": "18.2.37",
+    "@types/react-dom": "18.2.15",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "14.0.0"
+  },
+  "packageManager": "pnpm@10.12.1+sha512.f0dda8580f0ee9481c5c79a1d927b9164f2c478e90992ad268bbb2465a736984391d6333d2c327913578b2804af33474ca554ba29c04a8b13060a717675ae3ac"
+}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="80" viewBox="0 0 60 80" fill="none">
+  <!-- Rocket body -->
+  <rect x="20" y="10" width="20" height="50" fill="#34AC80" rx="2"/>
+  <!-- Rocket nose -->
+  <path d="M30 5 L40 15 L20 15 Z" fill="#4BEA69"/>
+  <!-- Rocket fins -->
+  <path d="M15 55 L20 60 L20 50 Z" fill="#0B5027"/>
+  <path d="M45 55 L40 60 L40 50 Z" fill="#0B5027"/>
+  <!-- Engine flames -->
+  <ellipse cx="25" cy="65" rx="3" ry="8" fill="#FF6B35"/>
+  <ellipse cx="35" cy="65" rx="3" ry="8" fill="#FF6B35"/>
+  <!-- Window -->
+  <circle cx="30" cy="25" r="6" fill="#87CEEB"/>
+  <circle cx="30" cy="25" r="4" fill="#E6F3FF"/>
+  <!-- Details -->
+  <rect x="22" y="35" width="16" height="2" fill="#0B5027"/>
+  <rect x="22" y="40" width="16" height="2" fill="#0B5027"/>
+</svg>

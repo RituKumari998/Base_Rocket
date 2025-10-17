@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="80" viewBox="0 0 60 80" fill="none">
+  <!-- Rocket body with base-inspired design -->
+  <rect x="20" y="10" width="20" height="50" fill="#2D374B" rx="2"/>
+  <!-- base-style hexagon pattern on body -->
+  <rect x="22" y="15" width="16" height="8" fill="#4A90E2" rx="1"/>
+  <rect x="22" y="25" width="16" height="8" fill="#4A90E2" rx="1"/>
+  <rect x="22" y="35" width="16" height="8" fill="#4A90E2" rx="1"/>
+  <!-- Rocket nose with base colors -->
+  <path d="M30 5 L40 15 L20 15 Z" fill="#4A90E2"/>
+  <!-- Rocket fins with base styling -->
+  <path d="M15 55 L20 60 L20 50 Z" fill="#2D374B"/>
+  <path d="M45 55 L40 60 L40 50 Z" fill="#2D374B"/>
+  <!-- Engine flames with base blue -->
+  <ellipse cx="25" cy="65" rx="3" ry="8" fill="#4A90E2"/>
+  <ellipse cx="35" cy="65" rx="3" ry="8" fill="#4A90E2"/>
+  <!-- Window with base logo -->
+  <circle cx="30" cy="25" r="8" fill="#4A90E2"/>
+  <circle cx="30" cy="25" r="6" fill="#E6F3FF"/>
+  <!-- Actual base logo in window -->
+  <rect x="26" y="22" width="2" height="6" fill="#FFFFFF"/>
+  <rect x="29" y="22" width="2" height="6" fill="#FFFFFF"/>
+  <rect x="32" y="22" width="2" height="6" fill="#4A90E2"/>
+  <!-- Details with base styling -->
+  <rect x="22" y="45" width="16" height="2" fill="#2D374B"/>
+  <rect x="22" y="50" width="16" height="2" fill="#2D374B"/>
+</svg>

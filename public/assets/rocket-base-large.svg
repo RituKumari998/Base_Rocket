@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="120" viewBox="0 0 60 120" fill="none">
+  <!-- Rocket body with base-inspired design -->
+  <rect x="20" y="10" width="20" height="80" fill="#2D374B" rx="2"/>
+  <!-- base-style hexagon pattern on body -->
+  <rect x="22" y="15" width="16" height="8" fill="#4A90E2" rx="1"/>
+  <rect x="22" y="25" width="16" height="8" fill="#4A90E2" rx="1"/>
+  <rect x="22" y="35" width="16" height="8" fill="#4A90E2" rx="1"/>
+  <rect x="22" y="45" width="16" height="8" fill="#4A90E2" rx="1"/>
+  <rect x="22" y="55" width="16" height="8" fill="#4A90E2" rx="1"/>
+  <rect x="22" y="65" width="16" height="8" fill="#4A90E2" rx="1"/>
+  <!-- Rocket nose with base colors -->
+  <path d="M30 5 L40 15 L20 15 Z" fill="#4A90E2"/>
+  <!-- Rocket fins with base styling -->
+  <path d="M15 85 L20 90 L20 80 Z" fill="#2D374B"/>
+  <path d="M45 85 L40 90 L40 80 Z" fill="#2D374B"/>
+  <!-- Engine flames with base blue -->
+  <ellipse cx="25" cy="95" rx="5" ry="15" fill="#4A90E2"/>
+  <ellipse cx="35" cy="95" rx="5" ry="15" fill="#4A90E2"/>
+  <ellipse cx="30" cy="105" rx="3" ry="10" fill="#2D374B"/>
+  <ellipse cx="25" cy="100" rx="2" ry="8" fill="#4A90E2"/>
+  <ellipse cx="35" cy="100" rx="2" ry="8" fill="#4A90E2"/>
+  <!-- Window with base logo -->
+  <circle cx="30" cy="25" r="10" fill="#4A90E2"/>
+  <circle cx="30" cy="25" r="8" fill="#E6F3FF"/>
+  <!-- Actual base logo in window -->
+  <rect x="26" y="22" width="3" height="6" fill="#FFFFFF"/>
+  <rect x="30" y="22" width="3" height="6" fill="#FFFFFF"/>
+  <rect x="34" y="22" width="3" height="6" fill="#4A90E2"/>
+  <!-- Details with base styling -->
+  <rect x="22" y="75" width="16" height="2" fill="#2D374B"/>
+  <rect x="22" y="80" width="16" height="2" fill="#2D374B"/>
+  <!-- Side thrusters with base colors -->
+  <rect x="15" y="50" width="4" height="20" fill="#2D374B" rx="1"/>
+  <rect x="41" y="50" width="4" height="20" fill="#2D374B" rx="1"/>
+  <ellipse cx="17" cy="75" rx="2" ry="8" fill="#4A90E2"/>
+  <ellipse cx="43" cy="75" rx="2" ry="8" fill="#4A90E2"/>
+  <!-- base hexagon pattern on thrusters -->
+  <rect x="15" y="55" width="4" height="2" fill="#4A90E2"/>
+  <rect x="15" y="60" width="4" height="2" fill="#4A90E2"/>
+  <rect x="41" y="55" width="4" height="2" fill="#4A90E2"/>
+  <rect x="41" y="60" width="4" height="2" fill="#4A90E2"/>
+  <!-- Antenna with base styling -->
+  <line x1="30" y1="10" x2="30" y2="5" stroke="#4A90E2" stroke-width="1"/>
+  <circle cx="30" cy="5" r="1" fill="#4A90E2"/>
+  <!-- Solar panels with base colors -->
+  <rect x="10" y="30" width="8" height="4" fill="#4A90E2" rx="1"/>
+  <rect x="42" y="30" width="8" height="4" fill="#4A90E2" rx="1"/>
+  <rect x="10" y="35" width="8" height="1" fill="#2D374B"/>
+  <rect x="42" y="35" width="8" height="1" fill="#2D374B"/>
+  <!-- base logo pattern on solar panels -->
+  <rect x="12" y="31" width="1.5" height="2" fill="#2D374B"/>
+  <rect x="14" y="31" width="1.5" height="2" fill="#2D374B"/>
+  <rect x="16" y="31" width="1.5" height="2" fill="#4A90E2"/>
+  <rect x="44" y="31" width="1.5" height="2" fill="#2D374B"/>
+  <rect x="46" y="31" width="1.5" height="2" fill="#2D374B"/>
+  <rect x="48" y="31" width="1.5" height="2" fill="#4A90E2"/>
+</svg>
